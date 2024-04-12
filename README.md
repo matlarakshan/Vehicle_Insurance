@@ -6,3 +6,14 @@ Our client is an Insurance company that has provided Health Insurance to its cus
 Problem Statement :
 Just like medical insurance, there is vehicle insurance where every year customer needs to pay a premium of certain amount to insurance provider company so that in case of unfortunate accident by the vehicle, the insurance provider company will provide a compensation (called ‘sum assured’) to the customer.
 Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
+
+For the given Dataset we have to
+
+* Imported Libraries
+* Loaded Dataset
+* EDA and Data Vizualization
+* Data Cleaning and Feature Engineering
+* Making some Hypothesis From Data Visulaized
+* Pick Appropriate Model and train
+* Prediction and some evaluate matrices for model
+* Conculsion
