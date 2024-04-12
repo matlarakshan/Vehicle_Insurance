@@ -12,8 +12,8 @@ For the given Dataset we have to
 * Imported Libraries
 * Loaded Dataset
 * EDA and Data Vizualization
-* Data Cleaning and Feature Engineering
-* Making some Hypothesis From Data Visulaized
-* Pick Appropriate Model and train
+* Data Cleaning
+* Feature Engineering
+* Picked Appropriate Model and train
 * Prediction and some evaluate matrices for model
 * Conculsion
